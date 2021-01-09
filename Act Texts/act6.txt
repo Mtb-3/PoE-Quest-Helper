@@ -1,0 +1,119 @@
+-------------------------------------
+              & ACT 6 START &
+-------------------------------------
+
+-Lioneye's Watch-
+
+-The Coast-
+
+/Waypoint\
+
+-The Mud Flats-
+
+>Kill The Dishonoured Queen. Take the Eye.<
+
+-The Karui Fortress-	
+
+-Tukohama's Keep-	
+
+>Kill Tukohama<
+		
+-The Karui Fortress-	
+
+-The Ridge-	
+
+/Waypoint\ --> Town	
+
+(The Father of War):Tarkleigh	
+
+-The Twilight Strand-	
+
+>Clear the strand<
+	
+@Logout@ --> Town
+
+(Fallen from Grace):Lilly
+"Completing this quest unlocks access to all gems."
+
+/Waypoint\ --> The Ridge
+	
+-The Lower Prison-
+	
++Lab Trial 1/3+
+"Pick up resistance crafting recipe while completing trial."
+
+-Shavronne's Tower-
+	
+-Prison Rooftop-
+	
+>Kill Shavronne & Brutus<
+	
+-The Warden's Chambers-
+	
+-The Prisoner's Gate-
+	
+/Waypoint\
+
+*Optional*
+*"If you feel you character is a bit weak, you can come back to complete
+the skill point quests later on. If you feel strong enough, complete them now."*
+
+*-Valley of the Fire Drinker-*
+	
+*>Kill Abberath<*
+			
+-The Western Forest-
+
+/Waypoint\
+	
+-The Riverways-
+	
+/Waypoint\
+	
+*-The Wetlands-*
+	
+*-The Spawning Ground-*
+	
+*>Kill The Puppet Mistress<*
+		
+-The Southern Forest-
+	
+-The Cavern of Anger-
+	
+>Open chest, take The Black Flag<
+	
+-Passage-
+	
+-The Beacon-
+
+/Waypoint\
+	
+>Escort the first cylinder<
+"Stay inside the yellow circle to move the cylinder."	
+
+>Escort the second cylinder<
+
+>Click on Ignition Switch<
+	
+>Click on The Beacon to burn the flag<	
+"As soon as you burn the flag, run down to the left to skip the boat animation, then use a dash ability to jump down to the bottom of the stairs."
+
+>Talk to Weylam<
+
+-Sail to The Brine King's Reef-
+	
+-The Brine King's Throne-
+	
+>Kill The Brine King<
+"Do not stay infront of him when he raises his claw for slam attack. Avoid the blue circles on the ground when he shrinks the arena."
+
+@Portal@ --> Town
+"If you completed the optional quests hand them in now."
+(The Puppet Mistress):Tarkleigh
+(The Cloven One):Bestel 
+
+/Waypoint\ --> Act 7 The Bridge Encampment
+
+-------------------------------------
+              & END OF ACT 6 &
+-------------------------------------

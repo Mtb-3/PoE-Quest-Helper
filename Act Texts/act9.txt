@@ -1,0 +1,103 @@
+-------------------------------------
+              & ACT 9 START &
+-------------------------------------
+
+-Highgate-
+	
+-The Descent-
+	
+-The Vastiri Desert-
+	
+/Waypoint\
+	
+>Find Storm-Weathered Chest<
+"Click the chest to begin the event. Kill all the mummies to get the Storm Blade."	
+
+"Head north to the zone that is blocked by a sandstorm and place
+a portal."
+
+@Portal@ --> Town 
+
+(The Storm Blade):Petarus & Vanja	
+"Take the Bottled Storm and take the portal back to The Vastiri Desert."
+
+@Portal@ --> The Vastiri Desert
+
+-The Oasis-
+	
+-The Sand Pit-	
+
+>Kill Shakari<
+
+@Portal@ --> Town 
+
+/Waypoint\ --> The Vastiri Desert
+	
+-The Foothills-
+
+/Waypoint\
+	
+-The Boiling Lake-
+	
+>Kill The Basilisk, take his Acid<	
+
+@Logout@ -->Town	
+
+/Waypoint\ --> The Foothills	
+
+-The Tunnel-
+	
++Lab Trial 2/3+
+	
+-The Quarry-
+	
+/Waypoint\
+	
+-Shrine of the Winds-	
+
+>Kill Garukhan<
+
+@Logout@ --> Town 
+	
+(Queen of the Sands):Irasha
+(The Ruler of Highgate):Irasha	
+
+/Waypoint\ --> The Quarry
+
+-The Refinery-	
+
+>Kill General Adus<
+	
+>Click forge, take Trarthan Powder<	
+
+@Portal@ --> Town
+
+/Waypoint\ --> The Quarry
+	
+>Talk to Sin<
+	
+-The Belly of the Beast-
+	
+-The Rotting Core-
+	
+-The Black Heart-
+	
+>Talk to Sin<
+	
+>Enter the 3 Areas and kill Doedre, Shavronne, Maligaro<
+
+>Talk to Sin<
+	
+-The Black Heart-
+	
+-Kill The Depraved Trinity-
+"Avoid the purple degen on the ground, kite the scorpion adds a bit when they spawn."	
+
+@Portal@ --> Town 
+
+/Waypoint\ --Oriath Docks (Act 10)
+
+-------------------------------------
+              & END OF ACT 9 &
+-------------------------------------
+	

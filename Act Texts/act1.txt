@@ -1,0 +1,175 @@
+     
+    ------------------------------
+     +        Welcome to PoE      +
+      +         QuestHelper        + 
+    ------------------------------
+
+   *Not all zone layouts are listed*
+   *Use the layouts as a reference 
+   for most situations*
+   *Linear zones have been omitted*
+
+-------------------------------------
+       ++++ Map Legend Info ++++
+-------------------------------------
+
+White circle = Entrance
+
+Neon Green Line and Circle =
+Main path to exit  
+
+Blue circle = Waypoint
+
+Dark green Circle = 
+Path to Labirynth Trials
+
+Grey Circle =
+Optional path and area. 
+
+------------------------------------
+     ++++ Acts Legend Info ++++
+------------------------------------
+
+-Place- 
+Go to location
+
+>Enemy< 
+For kill or collection quests
+
+/WayPoint\ 
+Get or Use waypoint 
+
+(Quest) 
+Pick up or hand in quests
+
+@Logout@ or @Portal@ 
+*Make sure to logout to character 
+screen. Do not exit the game*
+
+"Focus on items with health" Tips in quotes
+
++Labirynth Trial+ 
+Complete Lab puzzle
+------------------------------------
+
+-The Twilight Strand-	
+
+>Kill Hillock<	
+
+-Lioneye's Watch-
+	
+(Enemy at the Gate):Tarkleigh
+	
+-The Coast-
+	
+/Waypoint\
+	
+-The Mud Flats- "Not the zone to the right."
+
+>Find 3 eggs< "Get level 3 here in this zone."
+
+"Once you have the 3 eggs, find and click on the coloured wall to open the Submerged Passage."
+
+-The Submerged Passage-
+
+/Waypoint\ --> The Coast
+
+-The Tidal Island-
+
+>Kill Hailrake<	
+
+@Logout@ --> Town
+"Logging out to character screen and re-logging will bring you back to town."
+
+(Mercy Mission):Nessa "Get Quicksilver Flask"
+
+"Check if Tarkleigh is selling linked weps/armor that you need for your gems, movement speed boots as well."
+	
+/Waypoint\ --> The Submerged Passage
+
+"Once you see the bridge use a portal scroll. Portals only last 8 minutes so keep moving. If you don't have a scroll, continue."
+
+-The Ledge-
+
+/Waypoint\ --> Town
+*Optional*
+*"If you are a more experienced player continue until lower prison to return to town, then kill dweller"*
+
+@Portal@ --> The Submerged Passage
+"Take your portal in town back to The Submerged Passage. If your portal isn't there, just take the waypoint back."
+	
+-The Flooded Depths-
+	
+>Kill The Dweller of the Deep<
+
+@Logout@ --> Town 
+
+(Breaking Some Eggs):Tarkleigh	
+(The Dweller of the Deep):Tarkleigh
+"Check vendor for items, movement speed boots."
+	
+/Waypoint\ --> The Ledge	
+
+-The Climb-
+	
+-The Lower Prison-	
+
++Lab Trial 1/6+ 	
+
+-The Upper Prison-
+	
+-The Warden's Quarters-	
+"Follow the blood trails to Brutus."
+
+-The Warden's Chambers-
+	
+>Kill Brutus<
+"You should be around level 9-10. If not, adjust the number of monsters you kill in the upcoming zones."
+
+@Logout@ -->Town 
+
+(The Caged Brute):Tarkleigh 
+
+/Waypoint\ --> Prisoner's Gate	
+
+-The Ship Graveyard-
+
+/Waypoint\
+"Find Fairgraves, if he is not close to the waypoint, use a portal scroll"
+	
+-The Ship Graveyard Cave-
+	
+>Get the All Flame<
+"Click on the corpse to drop the item. Pick up All Flame and leave."
+
+-The Cavern of Wrath-
+
+/Waypoint\ --> Town 
+
+@Portal@ --> The Ship Graveyard
+"Take portal back to fairgraves, otherwise use waypoint to the
+Ship Graveyard.
+	
+>Kill Fairgraves<
+
+@Logout@ --> Town 
+
+(The Marooned Mariner):Bestel 	
+
+/Waypoint\ --> The Cavern of Wrath
+	
+-The Cavern of Anger-
+"Aim to be between level 12-14 
+before Marveil."
+	
+-Marveil's Lair-
+
+>Kill Marveil<
+"If you are dying a lot, equip at least one sapphire ring. This will increase your cold resistance. If you don't have one, sell an iron ring + a blue skill gem to any vendor to get a sapphire ring." 
+
+"Return to town to hand in any Act 1 quests if necessary."
+
+-------------------------------------
+              & END OF ACT 1 &
+-------------------------------------
+		
