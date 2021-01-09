@@ -364,7 +364,7 @@ class MainApplication():
     #Open Act1 text file 
     def text_click(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act1.txt"
+        rel_path = "Act Texts/Act1.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -373,7 +373,7 @@ class MainApplication():
     #Open Act2 text file 
     def text_click_2(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act2.txt"
+        rel_path = "Act Texts/Act2.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -382,7 +382,7 @@ class MainApplication():
     #Open Act3 text file 
     def text_click_3(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act3.txt"
+        rel_path = "Act Texts/Act3.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -391,7 +391,7 @@ class MainApplication():
     #Open Act4 text file 
     def text_click_4(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act4.txt"
+        rel_path = "Act Texts/Act4.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -400,7 +400,7 @@ class MainApplication():
     #Open Act5 text file 
     def text_click_5(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act5.txt"
+        rel_path = "Act Texts/Act5.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -409,7 +409,7 @@ class MainApplication():
     #Open Act6 text file 
     def text_click_6(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act6.txt"
+        rel_path = "Act Texts/Act6.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -418,7 +418,7 @@ class MainApplication():
     #Open Act7 text file 
     def text_click_7(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act7.txt"
+        rel_path = "Act Texts/Act7.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -427,7 +427,7 @@ class MainApplication():
     #Open Act8 text file 
     def text_click_8(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act8.txt"
+        rel_path = "Act Texts/Act8.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -436,7 +436,7 @@ class MainApplication():
     #Open Act9 text file 
     def text_click_9(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act9.txt"
+        rel_path = "Act Texts/Act9.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
@@ -445,7 +445,7 @@ class MainApplication():
     #Open Act10 text file 
     def text_click_10(self):
         file_dir = os.path.dirname(__file__)
-        rel_path = "Acts/Act10.txt"
+        rel_path = "Act Texts/Act10.txt"
         abs_path = os.path.join(file_dir, rel_path)
 
         with open(abs_path, 'r') as f:
