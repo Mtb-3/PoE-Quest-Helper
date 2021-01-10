@@ -1,10 +1,16 @@
-## PoE-Quest-Helper
+# PoE-Quest-Helper
 In game Overlay widget with a text based step-by-step guide on how to complete the acts. Includes multiple zone layouts for the more difficult areas. 
 
 
-# Installation 
-Click the green (code) button and download as zip. Extract the contents to a file location of your choosing. Open the "AppWidget.exe" to start the program. You might get an anti-virus prompt to scan the file before you can open it. 
+## Installation 
+1. Click the green (code) button and download as zip. 
+2. Extract the contents to a file location of your choosing.
 
+## Usage
+- Open the "AppWidget.exe" to start the program. 
+- You might get an anti-virus prompt to scan the file before you can open it. If this issue persists add it as an exception to your anti-virus software. 
+- Change your __Path of Exile__ settings to __Windows Fullscreen__ or __Windowed__ mode. 
+ 
 
 ## Authors and Acknowledgement 
 - Engineering Eternity: Map Layout images 
