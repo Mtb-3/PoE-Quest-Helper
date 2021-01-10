@@ -1,0 +1,93 @@
+-------------------------------------
+             & ACT 10 START &
+-------------------------------------
+
+-Oriath Docks-
+	
+-The Cathedral Rooftop-
+	
+-Cathedral Apex-
+"The entrance on your left."
+	
+>Kill Kitava's Cultists<
+	
+-The Cathedral Rooftop-
+	
+-The Ravaged Square-
+"Drop a portal at the bottom of the steps."
+
+/Waypoint\
+"Always located in front of the Ossuary."
+
+Waypoint --> Town 
+
+@Portal@
+"Take portal back to the Ravaged Square and head southwest towards 
+the control blocks."
+		
+-The Control Blocks- 
+"Narrow opening leading to the zone entrance."
+	
+-Arena-
+	
+>Kill Vilenta<
+"Keep moving during this fight."
+
+@Portal@ --> Town
+	
+(Vilenta's Vengeance):Lani
+
+/Waypoint\ --> The Ravaged Square
+
+-The Ossuary-
+
+-The Bone Pits-
+
+>Click on chest, pick up Elixir of Allure."
+
++Lab Trial 3/3+
+
+@Logout@ --> Town
+
+*Complete the Mericless Labyrinth *
+*"Go to POElab for labyrinth layout. This can be completed now or after act 10."*
+
+/Waypoint\ --> The Ravaged Square	
+
+-The Torched Courts-
+ 
+-The Desecrated Chambers-
+	
+-Sanctum of Innocence-
+	
+>Kill Avarius<
+
+@Portal@ --> Town
+(Safe Passage): Lani	
+(Death and Rebirth):Bannon	
+
+/Waypoint\ --> The Ravaged Square
+
+>Talk to Innocence<
+"Opens passage to the Canals"
+	
+-The Canals-
+	
+-The Feeding Trough-
+	
+>Talk to Sin<
+	
+-Altar of Hunger-
+	
+>Kill Kitava<
+"When Kitava's hand is glowing red, be ready to dodge as the next slam attack will send a shockwave forward. Kitava slowly drags his arm across the arena. You can run to the other side or time your dash ability to jump over it. Kitava clenches his fist which signals four small explosions that will move towards you ending with a large explosion. Move as soon as you see the smaller red explosions on the ground. He has a charged beam swipe and flame breath attack. Be ready to use your movement ability when you see his head move back.
+
+ Kitava's heart falls out when he reaches 80% health. Adds begin to spawn however focus mainly on the heart unless the adds begin to overwhelm you. When Kitava is below 25% health his flame breath attack now covers almost the entire area. There is a safe spot on the opposite side of where the attack began. You can set up a portal in the arena to dodge abilities as well. The beam orbs will attack below them. Try to avoid the area under them. 
+
+(An End to Hunger):Lani
+
+-------------------------------------
+             & END OF ACT 10 &
+-------------------------------------
+
+Congratulations! Continue your journey into maps.	

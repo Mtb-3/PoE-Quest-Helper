@@ -1,0 +1,143 @@
+-------------------------------------
+              & ACT 7 START &
+-------------------------------------
+
+-The Bridge Encampment-
+
+-The Broken Bridge-
+	
+-The Crossroads-
+	
+/Waypoint\
+	
+-The Fellshrine Ruins-
+	
+-The Crypt-
+	
++Lab Trial 2/3+
+	
+>Open Sarcophagus<
+"Stairs to The Crypt 2"
+	
+>Open Container of Sins<
+"Take Maligaro's Map"
+
+@Portal@ --> Town 
+"Logout if no scrolls."
+	
+-The Crossroads-
+
+-The Chamber of Sins 1-
+	
+/Waypoint\
+	
+-Activate Map Device-
+"Use the map you picked up and activate."
+	
+-Maligaro's Sanctum-
+	
+-Maligaro's Workshop-
+	
+>Kill Maligaro & take Black Venom<
+	
+@Portal@ --> The Chamber of Sins 1
+"Do not logout here"
+ 	
+>Talk to Silk & take Keys<
+	
+-The Chamber of Sins 2- 	
+
++Lab Trial 3/3+	
+
+-The Den-
+"You should be around level 46-47. If not, adjust accordingly."
+	
+-The Ashen Fields-
+	
+-The Fortress Encampment-	
+
+>Kill Greust<
+	
+-The Northern Forest-
+	
+>Waypoint<
+	
+-The Dread Thicket-
+"Use a portal outside the entrance."	
+
+-The Causeaway-
+
+/Waypoint\
+
+>Open Kishara's Lockbox & take Star<
+"Look for exclimation mark on your map."
+	
+-The Vaal City-
+"This zone has a bunch of possible layouts. If you get blocked by a wall, 
+continue left of the wall, hug the wall going northwest while looking for a possible opening."
+	
+/Waypoint\ --> Town 
+"Don't logout, otherwise you will lose your portal to the Dread Thicket.
+If your portal has expired just /Waypoint\ --> The Northern forest"
+
+@Portal@ --> The Dread Thicket
+
+>Find all Fireflies<
+	
+-The Den Despair-
+	
+>Kill Gruthkul<
+"Don't stand in one spot"
+
+@Logout@ --> Town
+
+(Queen of Despair):Eramir	
+(The Master of Million Faces):Eramir	
+(Kishara's Star):Weylam
+
+*/Waypoint\ --> The Riverways*
+"If you haven't completed the quests from Act 6, complete them now. 
+
+*-The Wetlands-*
+	
+*-The Spawning Ground-*
+	
+*>Kill The Puppet Mistress<*
+
+*@Portal@ --> Lioneye's Watch(Act 6)*
+
+*/Waypoint\ --> Prisoner's Gate*
+
+*-Valley of the Fire Drinker-*
+	
+*>Kill Abberath<*
+
+@Logout@ --> Lioneye's Watch 
+
+(The Puppet Mistress):Tarkleigh
+(The Cloven One):Bestel 
+
+/Waypoint\ --> The Aspirant's Plaza
+"Check POElab.com - Cruel Lab for today's layout."
+
+>Complete Cruel Lab<
+	
+/Waypoint\ --> The Vaal City-	
+
+>Give Fireflies to Yeena<
+	
+-The Temple of Decay 1-
+"Path towards opposite corners to find the staircases."
+
+-The Temple of Decay 2-
+	
+-Arakaali's Web-
+
+>Kill Arakaali<
+	
+-The Sarn Ramparts-
+
+-------------------------------------
+              & END OF ACT 7 &
+-------------------------------------
+	

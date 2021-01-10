@@ -1,0 +1,113 @@
+-------------------------------------
+              & ACT 8 START &
+-------------------------------------
+
+-The Sarn Ramparts-
+	
+-The Sarn Encampment-
+	
+-The Toxic Conduits-
+	
+-Deodre's Cesspool-
+"Should be around level 52."
+	
+>Open Loose Grate<
+	
+-The Cauldron-
+	
+>Kill Deodre<
+	
+-Sewer Outlet-	
+
+/Waypoint\
+"Go to the right of the waypoint."
+
+-The Quay-
+
+-Find Sealed Casket & take Ankh-
+"Look for a bridge to find the Ankh."
+
+-Resurrection Site-
+"Run along the water's edge to get to Resurrection Site."
+	
+>Kill Tolman<
+
+-The Quay-
+	
+-The Grain Gate-
+	
+/Waypoint\	
+
+>Kill Gemling Legionnaires<
+	
+-The Imperial Fields-
+	
+-The Solaris Temple 1-
+	
+-The Solaris Temple 2-
+	
+>Kill Dawn & take Sun Orb<
+
+@Logout@ --> Town
+
+(Love is Dead):Clarissa	
+(The Gemling Legion):Maramoa
+(Essence of the Hag):Hargan	
+
+/Waypoint\ --> The Solaris Temple 1
+	
+-The Solaris Concourse- 
+"Path down the staircase."
+
+/Waypoint\
+
+-The Harbour Bridge-
+
+-The Lunaris Concourse-
+
+-The Lunaris Temple 1-
+	
+-The Lunaris Temple 2-
+"The same as in Act3, look for the staircase and check for the side
+with one cart."
+	
+>Kill Dusk, take Moon Orb<
+
+@Portal@ --> Town
+"Logout if no scrolls"
+
+/Waypoint\ --> The Lunaris Concourse
+	
+-The Bath House-
+	
+/Waypoint\
+
+>Pick up the Wings of Vastiri<
+"Click on the sarcophagus to drop the item."
+	
++Lab Trial 1/3+
+	
+-The High Gardens-
+	
+-The Pool of Terror-
+	
+>Kill Yugul<
+
+@Portal@ --> Town 
+"Logout if no scrolls."	
+
+(Reflection of Terror) (Hargan)	
+
+/Waypoint\ --> The Lunaris Concourse
+
+-The Harbour Bridge-
+	
+-The Sky Shrine-
+	
+>Kill Solaris & Lunaris<
+"Dodge the Solaris charge beam attack, keep moving to avoid the projectiles that fall from the sky during the Solaris phase." 
+
+-The Blood Aqueduct- 
+"You should be around level 55 entering this zone. Clear and reset this zone until you reach level 62. Use this opportunity to find gear/weapon improvements. The most important thing will be improving your resistances above 75%. The reason for this is that after you kill Kitava in Act 10, your resistances will be reduced again by another 30%. This will help you transition into maps without having to farm again."
+
+& END OF ACT 8 & 	
